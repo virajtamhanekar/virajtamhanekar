@@ -60,7 +60,7 @@ I'm always curious and building. Let’s innovate together!
   <a href="https://github.com/virajtamhanekar/pharmacy-supply-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=virajtamhanekar&repo=pharmacy-supply-system&theme=highcontrast&hide_border=true" />
   </a>
-  <a href="https://github.com/virajtamhanekar/crypto-live-rate-app">
+  <a href="https://github.com/virajtamhanekar/real-time-chat-application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=virajtamhanekar&repo=crypto-live-rate-app&theme=highcontrast&hide_border=true" />
   </a>
 </div>
